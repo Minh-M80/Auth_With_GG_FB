@@ -178,14 +178,4 @@ php artisan config:clear
 - `resources/views/welcome.blade.php`: giao diện đăng nhập
 - `resources/views/dashboard.blade.php`: giao diện sau đăng nhập
 
-## Demo cần thực hiện
 
-Bạn có thể quay video demo 3-5 phút theo thứ tự:
-
-1. Mở file `.env` và cho thấy đã cấu hình Google/Facebook
-2. Chạy `php artisan serve`
-3. Đăng nhập bằng Google
-4. Đăng xuất
-5. Đăng nhập bằng Facebook
-6. Mở database để cho thấy dữ liệu user đã được lưu
-7. Hiển thị trang dashboard có thông tin cá nhân sinh viên
